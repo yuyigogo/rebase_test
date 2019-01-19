@@ -3,3 +3,4 @@ dev add2
 dev add3
 dev amend
 merge dev
+merge dev2
